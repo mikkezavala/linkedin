@@ -1,4 +1,4 @@
-Twitter Connect
+LinkedIn Connect
 ===============
 
 A Basic & Light LinkedIn Connector for Laravel 4.1
