@@ -1,24 +1,25 @@
 {
-    "name": "mikke/linked-in",
-    "description": "Small LI Conector",
-    "authors": [
-        {
-            "name": "Mikke Zavala",
-            "email": "miguel@mikkezavala.com"
-        }
-    ],
-    "dist": {
-        "url": "https://github.com/mikkezavala/twitter/archive/0.0.1.zip",
-        "type": "zip"
-    },
-    "require": {
-        "php": ">=5.3.0",
-        "illuminate/support": "4.1.*"
-    },
-    "autoload": {
-        "psr-0": {
-            "Mikke\\LinkedIn": "src/"
-        }
-    },
-    "minimum-stability": "stable"
+	"name": "mikke/linked-in",
+	"version": "0.0.1",
+	"description": "Small LI Conector",
+	"authors": [
+	    {
+	        "name": "Mikke Zavala",
+	        "email": "miguel@mikkezavala.com"
+	    }
+	],
+	"dist": {
+	    "url": "https://github.com/mikkezavala/twitter/archive/0.0.1.zip",
+	    "type": "zip"
+	},
+	"require": {
+	    "php": ">=5.3.0",
+	    "illuminate/support": "4.1.*"
+	},
+	"autoload": {
+	    "psr-0": {
+	        "Mikke\\LinkedIn": "src/"
+	    }
+	},
+	"minimum-stability": "stable"
 }
