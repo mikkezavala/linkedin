@@ -18,7 +18,7 @@ You need to add the repo for the project first in your composer.json:
 	"repositories": [
         {
             "type":"vcs",
-            "url": "https://github.com/mikkezavala/twitter.git"
+            "url": "https://github.com/mikkezavala/linked.git"
         }
     ]
 ```
